@@ -1,0 +1,16 @@
+{
+  "name": "vitest-overhead-example",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "rome": "^12.1.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mitata": "^0.1.6",
+    "vitest": "^0.34.3"
+  }
+}
